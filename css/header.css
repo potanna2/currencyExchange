@@ -1,0 +1,15 @@
+.header {
+    padding: 20px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.header__frame {
+    border-bottom: 3px ridge rgb(255 208 0);
+    padding: 20px;
+    margin-top: 35px;
+}
+
+.header__text {
+    color: rgb(255 208 0);   
+}

@@ -1,0 +1,14 @@
+.form__fieldset {
+    border: 3px ridge #ffffff;
+    background-color: rgb(255 208 0 / 34%);
+}
+
+.form__legend {
+    font-size: 20px;
+}
+
+.form__button {
+    color: #ffffff;
+    background-color: rgb(218 185 41 / 73%);
+    border: 2px ridge #ffffff;
+}
