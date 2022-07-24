@@ -5,6 +5,7 @@
 
 .form__legend {
     font-size: 20px;
+    text-transform: uppercase;
 }
 
 .form__button {
