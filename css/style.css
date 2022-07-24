@@ -10,11 +10,13 @@ html {
 
 .body {
     font-family: "Lato", sans-serif;
-    max-width: 700px;
+    text-align: left;
+    max-width: 1000px;
     margin: 0 auto;
     padding: 0 20px;
     line-height: 1.5;
     background: center / cover no-repeat url(../images/coins.jpeg);
     color:rgb(255, 255, 255);
+    min-height: 100vh;
 }
 

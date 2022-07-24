@@ -13,3 +13,9 @@
     background-color: rgb(218 185 41 / 73%);
     border: 2px ridge #ffffff;
 }
+
+.form__container {
+    flex-basis: 700px;
+    font-size: 20px;
+    text-align: center;
+    }
