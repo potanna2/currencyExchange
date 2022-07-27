@@ -1,5 +1,5 @@
 # Currency Converter
-On this page you can converts amount from Zloty to Mexican peso, Cuban peso, Argentine peso or Columbia peso. 
+On this page you can convert amount from Zloty to Mexican peso, Cuban peso, Argentine peso or Columbia peso. 
 This page is created as a part of Frontend Developer course in YouCode.
 
 ## Demo
